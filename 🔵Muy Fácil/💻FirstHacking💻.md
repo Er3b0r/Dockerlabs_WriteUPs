@@ -1,5 +1,3 @@
-
----
 >Lo primero es hacer un escaneo de todos los puertos para saber cuáles están disponibles y qué servicio corre en ellos.
 
 ![Pasted image 20240620022757](https://github.com/user-attachments/assets/0af6bb63-0a0b-4487-ba3f-eae76f3b72cf)
