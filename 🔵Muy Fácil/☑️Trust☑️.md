@@ -1,7 +1,8 @@
 
 ---
 >Lo primero es hacer un escaneo de todos los puertos para saber cuáles están disponibles y qué servicio corre en ellos.
-![[Pasted image 20240616182731.png]]
+![[Pasted image 20240616182731.png]]![Pasted image 20240616182731](https://github.com/user-attachments/assets/28c5ffc2-22f0-40f5-9de0-233460aa8e2f)
+
 >Ahora mediante la herramienta gobuster, voy a hacer fuzzing para ver a qué otras direcciones podemos acceder dentro de esa web.
 ![[Pasted image 20240616183532.png]]
 >Entro en la que me llama un poco la atención sobre todo por su nombre secret.php.
