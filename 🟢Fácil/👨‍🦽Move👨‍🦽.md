@@ -4,7 +4,7 @@
 ![Pasted image 20240714230431](https://github.com/user-attachments/assets/352d49df-c108-46e7-b395-77073a0e749b)
 >Ahora procedo a realizar fuzzing web en busca de algún posible directorio oculto.
 
-![Pasted image 20240714230431](https://github.com/user-attachments/assets/036bcbef-47a0-439a-b2d8-e61564783e61)
+![Pasted image 20240714230532](https://github.com/user-attachments/assets/3a303b87-b66e-4d95-959e-77c1e10eb89f)
 >Encuentro un recurso llamado maintenance.html en el que nos da la ruta a un archivo con una posible contraseña.
 
 ![Pasted image 20240715001328](https://github.com/user-attachments/assets/23079130-ec2f-43fe-abaf-9214401c27d5)
