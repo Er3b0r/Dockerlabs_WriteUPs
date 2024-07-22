@@ -24,7 +24,7 @@
 >Hago uso de la herramienta online [revshells](https://www.revshells.com/) para crear un script que me genere la reverse shell en php.
 
 ![Pasted image 20240722224446](https://github.com/user-attachments/assets/ed3f8959-d26b-459c-933b-9774be9fbce3)
->Creo el archivo, le subo, creo el servidor con Netcat para recibir la reverse shell y abro el archivbo reverse1.php para obtener la reverse shell y ganar así acceso a la máquina.
+>Creo el archivo, le subo, creo el servidor con Netcat para recibir la reverse shell y abro el archivo reverse1.php para obtener la reverse shell y ganar así acceso a la máquina.
 
 ![Pasted image 20240722224427](https://github.com/user-attachments/assets/bad37168-e965-4a56-8898-b37d1b63cd57)
 >Voy a hacer un tratamiento de la tty.
