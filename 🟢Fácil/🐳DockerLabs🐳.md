@@ -7,7 +7,7 @@
 >Accedo al recurso machine.php y veo que puedo subir archivos.
 
 ![Pasted image 20240722004213](https://github.com/user-attachments/assets/5b1ef1e2-c862-45eb-94e6-b3b1b29c58b2)
->Voy a crear un archivos llamado reverse.php en el que mediante código php crearé una reverse shell con ayuda de la herramienta online [revshells](https://www.revshells.com/).
+>Voy a crear un archivo llamado reverse.php en el que mediante código php crearé una reverse shell con ayuda de la herramienta online [revshells](https://www.revshells.com/).
 
 ![Pasted image 20240722004513](https://github.com/user-attachments/assets/cd11fa24-12a7-40d6-bf4c-b5111d5c9026)
 >Cuando intento subir el archivo me lleva a una página llamada upload.php en la que me dice que no puedo subir archivos que no sean .zip.
