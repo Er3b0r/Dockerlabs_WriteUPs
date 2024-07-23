@@ -27,7 +27,7 @@
 >Voy al directorio opt ya que a veces hay contenido útil.
 >Encuentro una nota.
 >La nota nos da la ruta de un archivo que se encuentra en el directorio de root.
->Para poder ver su contenido, voy a aprovecharme de los binarios anteriores y gracias a la herramienta web [GTFObins](https://gtfobins.github.io/gtfobins/grep/#sudo).
+>Para poder ver su contenido, voy a aprovecharme de los binarios anteriores y gracias a la herramienta web [GTFOBins](https://gtfobins.github.io/gtfobins/grep/#sudo).
 
 ![Pasted image 20240722010842](https://github.com/user-attachments/assets/dbd8cdfb-f4f1-4478-8987-c6c639401fcd)
 >Ahora voy a iniciar sesión como root con la contraseña que acabo de obtener.
