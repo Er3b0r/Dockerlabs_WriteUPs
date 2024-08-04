@@ -46,7 +46,7 @@ Una vez dentro, veo que tiene lo mismo que en el servicio ftp por lo que me disp
 
 ![Pasted image 20240625234453](https://github.com/user-attachments/assets/00a2078e-9012-497e-a147-122204a4a0e6)
 
-Veo que puedo ejecutar /us/bin/vim por por lo que gracias a la herramienta GTFObins, introduzco un script que me va a permitir abrirme una consola sh como sudo gracias a ese binario.
+Veo que puedo ejecutar /us/bin/vim por por lo que gracias a la herramienta [GTFObins](https://gtfobins.github.io/), introduzco un script que me va a permitir abrirme una consola sh como sudo gracias a ese binario.
 
 Cuando ejecutamos el script ya soy root.
 
