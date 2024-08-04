@@ -56,7 +56,7 @@ Voy a intentar crear una **reverse shell** modificando el código de algunas de 
 
 ![Pasted image 20240626151555](https://github.com/user-attachments/assets/7301f608-338d-4a33-9cf9-285e80b43a11)
 
-Gracias a la herramienta Reverse Shell Generator, copio el script que me permitirá generar la reverse shell y modificando ciertos parámetros ganar acceso a la máquina.
+Gracias a la herramienta [Reverse Shell Generator](https://www.revshells.com/), copio el script que me permitirá generar la reverse shell y modificando ciertos parámetros ganar acceso a la máquina.
 
 ![Pasted image 20240626190831](https://github.com/user-attachments/assets/907fee45-a857-43d8-abb8-d25a8cbeaead)
 
