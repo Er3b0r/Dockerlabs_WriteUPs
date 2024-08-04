@@ -11,6 +11,7 @@
 
 ![Pasted image 20240804175909](https://github.com/user-attachments/assets/471d6aa4-bc4c-4722-ab1d-0e916133fce1)
 >Como no obtengo nada, voy a probar a realizar un **port knocking** para ver si puedo abrir los puertos.
+
 >[¿Qué es el PORT KNOCKING?](https://www.evaristogz.com/configurar-port-knocking-knock-ssh/)
 >Port Knocking (traducido al español como «golpeo de puertos») es una de las **técnicas que se puede utilizar para securizar un servidor Linux**. Su funcionamiento es muy sencillo y permitiría que solo personas autorizadas accedan a un determinado puerto.
 >Junto al uso de un servicio de cortafuegos por software, su principal función es evitar que los puertos queden expuestos, tanto a personas como a bots o escáneres automatizados de puertos.
@@ -25,5 +26,6 @@
 
 ![Pasted image 20240804182447](https://github.com/user-attachments/assets/a97e1d62-87aa-4856-9c09-6dbc0be428ce)
 >Ahora voy a intentar escalar privilegios.
+
 ![Pasted image 20240804183350](https://github.com/user-attachments/assets/02dec558-09c6-4d35-9df9-614ef64e82e5)
 ![Pasted image 20240804183458](https://github.com/user-attachments/assets/99961515-10ef-473d-a3c1-5e4b730a1905)
