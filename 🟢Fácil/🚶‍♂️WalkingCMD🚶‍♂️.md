@@ -78,7 +78,7 @@ Se me proporciona la reverse shell y gano acceso a la máquina víctima.
 
 Busco los binarios que poseen permisos de root y veo que puedo hacer algo con el binario /usr/bin/env.
 
-Utilizo la herramienta GTFObins para buscar el script que me permita generar una shell como root a través del binario /usr/bin/env.
+Utilizo la herramienta [GTFObins](https://gtfobins.github.io/) para buscar el script que me permita generar una shell como root a través del binario /usr/bin/env.
 
 Una vez ejecuto el script ya he logrado escalar los privilegios y convertirme en root.
 
