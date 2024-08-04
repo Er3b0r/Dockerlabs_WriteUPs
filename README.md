@@ -1,6 +1,6 @@
 # Dockerlabs_WriteUPs
 En este repositorio encontrarás las máquinas de la página web de [Dockerlabs](https://dockerlabs.es/#/) resueltas, organizadas dependiendo de la dificultad en que la web las clasifica.
-Cuando entres en una de las máquinas resueltas, verás que se explican de una manera muy intuitiva, ya que se explica paso a paso como se resuleve la máquina acompañado de capturas de pantalla y a veces, de código que podrás copiar directamente, lo que te facilitará bastante la tarea.
+Cuando entres en una de las máquinas resueltas, verás que se explican de una manera muy intuitiva, ya que se explica paso a paso cómo se resuleve la máquina acompañado de capturas de pantalla y a veces, de código que podrás copiar directamente, lo que te facilitará bastante la tarea.
 
 Desde aquí agradecer tanto a los creadores de la web como a los creadores de las máquinas por hacer posible un sistema gratuito y de calidad para que gente que le apasione la ciberseguridad como yo, en concreto el hacking ético, pueda aprender con este método tan accesible, con el que dispone de varios niveles de dificultad permitiendo así aprender desde un nivel muy básico e ir ampliando conocimientos mientras vas aumentando la dificultad. A demás de que van añadiendo máquinas con el tiempo, si no sabes continuar con la resolución de alguna de las máquinas, desde la misma web dispones de enlaces a la resolución individual de cada máquina, cada una resuelta por diferentes personas, dando así mérito a estas personas, ayudando también a crear una bonita comunidad.
 
